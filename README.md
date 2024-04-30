@@ -10,14 +10,22 @@ In this project we aim to answer the following questions:
 
 ### Team Members
 Blake Wang (bw669)
+
 Vicky Yue (wy164)
 
 ### Related Work and Repositories
 *InstanceDiffusion* demonstrates an instance-level control for Image Generation by breaking down the captions into instance-level captions.
+
 OpenAI *DALL-E* and *Sora* demonstrates the power of using Large Language Models to convert the short user input into a long, detailed prompt for the text-to-image genration model.
+
 We also explored several papers regarding how to generate better prompts(see references).
-We followed some huggingface tutorials on training and evaluating(and of course the assignments!) and used their scripts for train on a small subset of coco. Links:
+
+We followed some huggingface tutorials on training and evaluating(and of course the assignments!) and used their scripts for train on a small subset of coco. 
+
+Links:
+
 https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/README.md
+
 https://huggingface.co/docs/diffusers/en/conceptual/evaluation
 
 ### How to Run
@@ -30,11 +38,16 @@ https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/README
 ### References
 
 Sora Technical Report: Video generation models as world simulators, https://openai.com/research/video-generation-models-as-world-simulators.
+
 InstanceDiffusion: Instance-level Control for Image Generation, arxiv 2402.03290.
+
 PromptCrafter: Crafting Text-to-Image Prompt through Mixed-Initiative Dialogue with LLM, arxiv 2307.08985.
+
 Optimizing Prompts for Text-to-Image Generation, arxiv 2212.09611.
-Improving Text-to-Image Consistency via Automatic Prompt Optimization, arxiv 2403.17804
+
+Improving Text-to-Image Consistency via Automatic Prompt Optimization, arxiv 2403.17804.
 
 ### Slides
 https://docs.google.com/presentation/d/19FW8rNYkOIZBo3WhzXp_AhszTWkOuMj_lsNe4IySYT8/edit?usp=sharing
+
 Alternatively if the link is not working, there is a copy of our .pptx in this repo.
