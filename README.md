@@ -50,4 +50,4 @@ Improving Text-to-Image Consistency via Automatic Prompt Optimization, arxiv 240
 ### Slides
 https://docs.google.com/presentation/d/19FW8rNYkOIZBo3WhzXp_AhszTWkOuMj_lsNe4IySYT8/edit?usp=sharing
 
-Alternatively if the link is not working, there is a copy of our .pptx in this repo.
+View access is for GU accounts only. Alternatively if the link is not working, there is a copy of our .pptx in this repo.
